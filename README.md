@@ -25,7 +25,6 @@ Using **machine learning algorithms**, the model provides an early warning syste
 5. Predict the risk of heart disease for new data  
 
 ##  Results
-- Achieved [XX% accuracy / F1-score] on test data  
 - Logistic Regression showed good interpretability, while Random Forest improved accuracy  
 
 ## Future Improvements
